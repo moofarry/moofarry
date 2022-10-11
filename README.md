@@ -1,18 +1,16 @@
 <h1 align="center">
-Hi, I'm Jhon Moofarrif!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/moofarry" alt="Profile views" align='right'/> <a href="https://github.com/moofarry/moofarry/"> </a> 
-<br/>
+  Hi, I'm Jhon Moofarrif!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+</h1>
+  <br/>
+<div>
+<img src="https://gpvc.arturio.dev/moofarry" alt="Profile views" align='right'/> <a href="https://github.com/moofarry/moofarry/"> </a>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=Frontend+React+Developer;Always+learning+new+things;React+%7C+Angular+%7C+React+Native+%7C+Microfronts"></a>
 </p>
-)
-
-<img align="left" src="https://raw.githubusercontent.com/moofarry/moofarry/master/pic.jpeg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
+  <img align="left" src="https://raw.githubusercontent.com/moofarry/moofarry/master/pic.jpeg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 
 ```
 moofarry@github
@@ -21,12 +19,12 @@ moofarry@github
 📚 I have a Bachelors in Computer Science from the University of Mumbai at India
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
+🌟 Main languages: JavaScript and Python
 🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+
 ```
+
+</div>
 
 <hr>
 
